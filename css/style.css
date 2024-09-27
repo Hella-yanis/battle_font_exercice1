@@ -1,0 +1,42 @@
+
+.movement{
+  font-family: 'MovementV';
+}
+  
+
+
+
+
+.sixtyhour{
+  font-family: 'sixtyhour';
+}
+
+h2{
+  font-size: 100px;
+  color: crimson;
+  font-variation-settings:"SPAC" 120,"wght" 750;
+  transform:rotate(1deg)
+}
+
+h3{
+  position: relative;
+  font-size: 50px;
+  color: rgb(97, 142, 234);
+  font-variation-settings: "SCAN" 0, "BLED" 60;
+  transform: rotate(-15deg)
+}
+
+#one {
+  position: relative;
+  z-index: 1;
+  opacity: 0.99;
+  mix-blend-mode:color-dodge;
+}
+
+
+  
+ 
+  
+  
+  
+  

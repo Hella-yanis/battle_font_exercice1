@@ -1,0 +1,106 @@
+/*Ce fichier contient tous les liens vers les fichiers des différentes fonts variables*/
+@font-face {
+  font-family: 'OuvrièresGX';/*Ici on déclare le nom que l'on souhaite employer pour utiliser la typographie*/
+  src: url(../font/ouvrieres2/Ouvri%C3%A8resGX.woff2) format('woff2');/*ici on renseigne le lien et le format du fichier*/
+   /*
+  axes : 
+  "FRMT" : formation (100 - 900)
+   "wght" : taille des fourmies (100 - 900)
+  */
+}
+
+
+@font-face {
+  font-family: 'FacadeGX';
+  src: url(../font/facade/FacadeGX.woff2) format('woff2');
+  /*
+  axes : 
+  "wght" : graisse (100 - 900)
+  "ctst" : contraste (0 - 800)
+  */
+}
+
+@font-face {
+  font-family: 'FungalGX';
+  src: url(../font/fungal/FungalVF.woff) format('woff2');
+  /*
+  axes : 
+  "grow" : développement des points / croissance (0 - 1000)
+  "THCK" : épaisseur des points (100 - 1000)
+  */
+}
+
+@font-face {
+  font-family: 'MovementV';
+  src: url(../font/movement/MovementV.woff2) format('woff2');
+   /*
+  axes : 
+  "SPAC" : arrondie (100 - 120)
+  "wght" : graisse (100 - 900)
+  */
+}
+
+@font-face {
+  font-family: 'recursive';
+  src: url(../font/recursive/Recursive_VF_1.085.woff2) format('woff2');
+  
+   /*
+  axes : 
+  "MONO" : typo chasse fixe ou variable (0-1)
+   "CASL" : géométrique ou arrondie (0-1)
+   "wght" : graisse (300-1000)
+   "slnt" : italic ((-15) - 0)
+  */
+}
+
+@font-face {
+  font-family: 'BricolageGrotesque';
+  src: url(../font/bricolage/BricolageGrotesque%5Bopsz%2Cwdth%2Cwght%5D.woff2) format('woff2');
+  /*
+  axes : 
+  "wdth" : largeur des caractères (75 - 100)
+  "wght" : graisse (100 - 900)
+  "opsz" : optical size (modification du dessin du caractère pour
+          l'affichage en petit caractère (12-96)
+  */
+}
+
+@font-face {
+  font-family: 'handjet';
+  src: url(../font/handjet/handjet.woff2) format('woff2');
+   /*
+  axes : 
+  "ELRG" : Motif (0-16)
+  "wght" : graisse (100-900)
+  "ELSH": (laisser toujours 1);
+  */
+}
+
+@font-face {
+  font-family: 'sixtyhour';
+  src: url(../font/sixtyhour/Sixtyfour.woff2) format('woff2');
+   /*
+  axes : 
+  "SCAN" : épaisseur des lignes((-53)-100)
+  "BLED": longueur des lignes(0-100);
+  */
+}
+
+
+@font-face {
+  font-family: 'tiny';
+  src: url(../font/tiny/TINY5x3GX.woff2) format('woff2');
+  /*
+  axe : 
+  "wght" : taille des points(0-300)
+  */
+}
+
+@font-face {
+  font-family: 'mixal';
+  src: url(../font/mixal/MixalGX.woff2) format('woff2');
+  /*
+  axe : 
+  "wght" : graisse et largeur des caractères(100-900)
+  */
+}
